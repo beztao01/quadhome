@@ -1,0 +1,19 @@
+body {
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  h1 {
+    color: blue;
+    } 
+
+  h2  {
+    color: #404040;
+  }
+
+  h3  {
+    color: #686868;
+  }
+
+  p {
+    color: rgb(0, 0, 0);
+  }
